@@ -10,3 +10,5 @@ venv/
 *.xlsx
 *.xls
 *.exe
+*.rar
+.ipynb_checkpoints/
