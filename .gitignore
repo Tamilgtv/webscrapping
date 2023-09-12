@@ -9,3 +9,4 @@ venv/
 *.iml
 *.xlsx
 *.xls
+*.exe
